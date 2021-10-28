@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @duribeiro
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning javaScript
-- 📫 How to reach me: @duh.ribeiro on Instagram 
+- 😃️ Hi, I’m Eduardo Ribeiro
+- 👨‍💻️ I’m Web Development Student at Trybe
+- 🖥️ I study at the Trybe programming school
+- 📫 How to reach me eduardo.duduribeiro1@gmail.com
 
 <!---
 duribeiro/duribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
