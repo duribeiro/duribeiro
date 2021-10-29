@@ -1,7 +1,8 @@
-<h2 style="font-size: 200%; color: #85DEF2;text-align:center;"> 
-  About me 
-</h2>
-
+<div align="center">
+  <h2 style="font-size: 200%; color: #85DEF2;text-align:center;"> 
+    About me 
+  </h2>
+</div>
 <p align="center">Olá! Tudo bem? 😃️</p>
 <p align="center">Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Eduardo Ribeiro</i></a> e eu estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>. 😃️</p>
 <p align="center">Toda semana compatilho um pouco do meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a>,
