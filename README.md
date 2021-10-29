@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="10%"  src="https://lh3.googleusercontent.com/2tt0p2_ERWbtFwlSKwChaMZkWmi4wD_3LVLibphnhPk2dE-UcCRZcafofvrxnnoBXYhecadCa2ns2NlNhEaM9OT2534U99Q1_Wl4P3ZnJ8GYmCJy68D_QQs8BVK-WLNq_sJolTqcheUKGlpIZcJucG0FMHU8wEtZVjMf0SNHKHrPQf9L5Qg-Q6Ffn8xvRYWtvUqo-KrPYGfLLUqsgqNBMwPwXmY6GyZM9ystCDHEbYQdva_cflgTDG5qWLG2wxvNyDI2LFruhO35e79RtcyCTCdzldx4Fl3eiwoIHt6xfq6-m3f5CbxAM18SeAZid-Y2rewVPcxK8b2avcqmqpqVb_lRf0GI4ALjsDfC4FZjt7Y4WySoKgFCFofTJ9FV3e8aATJ2EUG_DtFW6w9d02SmkJ7OOrwZLLQTfK4VZoBy-TW4Nlsh7cpcPzT_CNRDnqgMF_s9hoLRUCl1Qh5zZUesd8UajhSp2c7t1yowUzjwWCWTwbuQ5lp1dOF2w9qBGSIwYhldVXd_XakoBUUnzdIrFqTQpdrbBb0XUJ2FQkCEKlvsfN2MS9mGD5rN9M7yzk1kyCTCxz6sn-uyQjkraqF5JQo-bnE5AZnvhpnvuXDE8iH5qpCnr7yL2Y1Plnql7QlzPwCHDK7ng8I4OYFc3FsbL1Gia78sHRv8tSg36ctoLUpuG0nBfvlOnpS0THgO6NxU1lfrneBJF9nTReS-8zgUnkBY=w729-h791-no?authuser=0" ></p>
+<p align="center" style="border-radius:100%"><img height="auto" width="10%"  src="/assets/perfil-trybe-1.png" ></p>
 
 <!-- <h1 align="center" style="color: #85DEF2"> 
   About me 
