@@ -1,13 +1,13 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="10%"  src="/assets/perfil-trybe-1.png" ></p>
+<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/perfil-trybe-1.png" ></p>
 
 <div>
-  <p align="center">Olá! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Eduardo Ribeiro</i></a> e eu estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>. 😃️</p>
-  <p align="center">Toda semana compartilho parte do meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
+  <h1 align="center">Olá! Tudo bem? 😃️</h1>
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Eduardo Ribeiro</i></a> e eu estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>. 😃️
+  <p align="center"> Sou apaixonado por tecnologia e gosto de compartilhar meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+    <img width="15%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
-  <p align="center">E quero te pedir para se inscrever no botão aqui abaixo e vir codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
+  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
 
 
